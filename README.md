@@ -1,0 +1,1 @@
+# se a api nao estiver respondendo, va no mongoDB e adicione os endereços Ips que vem do render
